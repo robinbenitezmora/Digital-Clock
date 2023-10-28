@@ -7,8 +7,6 @@ import java.util.Calendar;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-import javafx.beans.value.WeakChangeListener;
-
 public class Clock extends JFrame {
 
  Calendar calendar;
